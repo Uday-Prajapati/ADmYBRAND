@@ -15,10 +15,6 @@ A beautiful, responsive landing page built with React, TypeScript, and Tailwind 
 - **Smooth Animations**: Framer Motion for engaging user interactions
 - **Component Library**: Reusable UI components with consistent design
 
-## 🎬 Demo
-
-[Download Demo Video](./admybrand-demo.mp4)
-
 ## 📋 Sections
 
 - **Hero Section**: Eye-catching landing area with call-to-action

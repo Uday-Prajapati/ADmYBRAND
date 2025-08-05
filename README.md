@@ -1,6 +1,8 @@
 # ADmYBRAND - Modern React TypeScript Landing Page
-
 A beautiful, responsive landing page built with React, TypeScript, and Tailwind CSS. This project showcases modern web development practices with a focus on performance, accessibility, and user experience.
+
+## 🎬 Demo
+[Download Demo Video](./admybrand-demo.mp4)
 
 ## 🚀 Features
 
@@ -171,5 +173,4 @@ If you have any questions or need help, feel free to:
 
 ---
 
-⭐ **Star this repository if you found it helpful!** 
 
